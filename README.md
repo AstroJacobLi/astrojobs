@@ -43,6 +43,10 @@ _Internet connection is needed for `astrojobs` to work._
 
 ![astrojobs usage example](astrojobs.png)
 
+```{warning}
+Currently, `astrojobs` only supports Rumor Mill. The AAS Job Register (https://jobregister.aas.org) is currently protected by Cloudflare and cannot be scraped by this tool.
+Please visit the website directly to check for updates.
+```
 
 ## Notices
 
