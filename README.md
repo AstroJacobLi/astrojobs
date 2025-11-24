@@ -16,12 +16,11 @@ and prints them right into the terminal.
 
 ### Install `astrojobs`
 
-You can install `astrojobs` from [PyPI](https://pypi.org/project/astrojobs/) using the command line
+Please clone this repository to your local machine, then run
 
 ```bash
-pip install astrojobs
+pip install .
 ```
-
 
 ## Usage
 
